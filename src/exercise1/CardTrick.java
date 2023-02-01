@@ -59,6 +59,8 @@ public class CardTrick {
      *
      * @author Farhan Afser Nabil Feb 2023
      */
+    
+    /* I'm done */
     private static void printInfo() {
 
         System.out.println("Congratulations, you guessed right!");
