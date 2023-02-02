@@ -26,7 +26,7 @@ public class CardTrick {
             // Hint: You can use Random -> random.nextInt(n) to get a random number between 0 and n-1 (inclusive)
             //       Don't worry about duplicates at this point
             card.setValue(random.nextInt(13) + 1);
-            card.setSuit(Card.SUITS[random.nextInt(3)]);
+            card.setSuit(Card.SUITS[random.nextInt(4)]);
             hand[i] = card;
         }
 
